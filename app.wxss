@@ -1,0 +1,15 @@
+/**app.wxss**/
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+
+} 
+
+.img{
+  width:375rpx;
+  height:375rpx;
+  border-radius:50%;
+}

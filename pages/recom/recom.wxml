@@ -1,0 +1,6 @@
+<view class="container">
+  <text>今日推荐</text>
+  <image class="img" src="/image/5.jpg"></image>
+  <text>光头强</text>
+  <text>点评：这是最好看的电影</text>
+</view>

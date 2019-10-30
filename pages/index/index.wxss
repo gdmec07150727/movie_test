@@ -1,0 +1,7 @@
+/**index.wxss**/
+.nav{
+  color: blue;
+}
+.hhh{
+  color: red;
+}

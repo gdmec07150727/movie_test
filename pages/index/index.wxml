@@ -1,0 +1,10 @@
+<!--index.wxml-->
+<view class="container">
+  <image class="img" src="/image/4.jpg"></image>
+  <text>电影天天看</text>
+  <view>
+    <text>每天</text>
+    <navigator class="nav" style="display:inline;" hover-class="hhh" url='/pages/recom/recom'>都看好电影</navigator>
+  </view>
+  <text>我的微博：HungKing-Lin</text>
+</view>
